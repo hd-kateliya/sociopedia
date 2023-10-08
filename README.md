@@ -17,7 +17,3 @@
 
 ### Server runs on http://localhost:5000 and client on http://localhost:3000
 
-## image posts are going to cloudinary api, so change it in imageUpload.js file with your api link..
-
-
-"# sociopedia" 
